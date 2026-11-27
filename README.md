@@ -13,8 +13,7 @@
 <img src="assets/inventory.svg" width="100%" alt="Inventory. Languages: Java, Python, TypeScript, JavaScript, SQL, C. Frameworks: Spring Boot, React, Next.js, Node.js, FastAPI, Tailwind. Data and cloud: Databricks, ETL, Big Data, AWS, GCP. Infra: Docker, Kubernetes, Terraform, CI/CD, Git. Storage: MongoDB, Firebase, H2."/>
 
 <p align="center">
-  <a href="https://github.com/arinjaysaxena/Code-Shield-AI"><img src="assets/cart-codeshield.svg" width="49%" alt="Code Shield AI: scans Python codebases for multi-step vulnerabilities by pairing symbolic analysis with LLM reasoning."/></a>
-  <a href="https://github.com/arinjaysaxena/RiskLens"><img src="assets/cart-risklens.svg" width="49%" alt="RiskLens: profiles your risk appetite with a Random Forest classifier and builds a personalized ETF portfolio."/></a>
+  <a href="https://github.com/arinjaysaxena/RiskLens"><img src="assets/cart-risklens.svg" width="430" alt="RiskLens: profiles your risk appetite with a Random Forest classifier and builds a personalized ETF portfolio."/></a>
 </p>
 
 <img src="assets/feed.svg" width="100%" alt="Event log of my latest commits, refreshed automatically."/>
